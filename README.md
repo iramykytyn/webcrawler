@@ -68,6 +68,7 @@ def crawl_web(seed):
 
 	
 	
+	
 url = "http://www.iramykytyn.com/blog"
 page = urllib.urlopen(url).read()
 #print page
